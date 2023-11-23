@@ -1,0 +1,4 @@
+﻿  Razvan2.cpp
+C:\Users\Alen\source\repos\Razvan2\Razvan2\Razvan2.cpp(9,33): error C2660: 'fopen_s': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(102,34): message : see declaration of 'fopen_s'
+C:\Users\Alen\source\repos\Razvan2\Razvan2\Razvan2.cpp(17,25): warning C4477: 'fscanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'

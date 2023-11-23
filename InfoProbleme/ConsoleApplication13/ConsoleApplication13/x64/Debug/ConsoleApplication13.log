@@ -1,0 +1,4 @@
+﻿  ConsoleApplication13.cpp
+C:\Users\Alen\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(35,10): warning C4101: 'model': unreferenced local variable
+C:\Users\Alen\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(34,9): warning C4101: 'opt': unreferenced local variable
+  ConsoleApplication13.vcxproj -> C:\Users\Alen\source\repos\ConsoleApplication13\x64\Debug\ConsoleApplication13.exe

@@ -1,0 +1,3 @@
+Numarul de caractere ale sirului Alen este 4 
+Numarul de caractere ale sirului Mario este 5 
+Numarul de caractere ale sirului Nicolae este 7 

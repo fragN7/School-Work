@@ -1,0 +1,9 @@
+﻿  Razvan.cpp
+C:\Users\Alen\source\repos\Razvan\Razvan\Razvan.cpp(80,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alen\source\repos\Razvan\Razvan\Razvan.cpp(180,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alen\source\repos\Razvan\Razvan\Razvan.cpp(184,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alen\source\repos\Razvan\Razvan\Razvan.cpp(198,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alen\source\repos\Razvan\Razvan\Razvan.cpp(223,10): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Alen\source\repos\Razvan\Razvan\Razvan.cpp(224,10): warning C4566: character represented by universal-character-name '\u0219' cannot be represented in the current code page (1252)
+C:\Users\Alen\source\repos\Razvan\Razvan\Razvan.cpp(224,10): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+  Razvan.vcxproj -> C:\Users\Alen\source\repos\Razvan\x64\Debug\Razvan.exe

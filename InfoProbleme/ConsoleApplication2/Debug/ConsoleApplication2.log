@@ -1,0 +1,6 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Alen\source\repos\ConsoleApplication2\ConsoleApplication2.cpp(11,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Alen\source\repos\ConsoleApplication2\ConsoleApplication2.cpp(12,9): error C2065: 'cout': undeclared identifier
+C:\Users\Alen\source\repos\ConsoleApplication2\ConsoleApplication2.cpp(12,28): error C2297: '<<': illegal, right operand has type 'const char [2]'
+C:\Users\Alen\source\repos\ConsoleApplication2\ConsoleApplication2.cpp(28,25): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Alen\source\repos\ConsoleApplication2\ConsoleApplication2.cpp(32,23): warning C4018: '<=': signed/unsigned mismatch
